@@ -16,7 +16,7 @@
 [Basic Usage](#basic-usage) |
 [Contributing](#contributing)
 
-# Ibrahim wuz here just for test
+# Ibrahim was here just for test
 ## Key Features
 Stumpless offers a robust set of features to make logging in C faster and
 easier:
